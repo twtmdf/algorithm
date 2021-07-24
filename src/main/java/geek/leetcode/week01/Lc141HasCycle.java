@@ -2,7 +2,7 @@ package geek.leetcode.week01;
 
 //https://leetcode-cn.com/problems/linked-list-cycle/
 //lc141
-//思路：快指针一次走两步，慢指针一次走一步，有环一定会相遇
+//思路：快指针一次走两步，慢指针一次走一步，有环一定会相遇，且在环的入口的下一个节点相遇
 public class Lc141HasCycle {
 
     public boolean hasCycle(ListNode head) {
