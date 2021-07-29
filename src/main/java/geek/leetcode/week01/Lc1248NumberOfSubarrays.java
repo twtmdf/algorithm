@@ -1,4 +1,4 @@
-package geek.leetcode.week02;
+package geek.leetcode.week01;
 
 import com.sun.tools.javac.util.Pair;
 

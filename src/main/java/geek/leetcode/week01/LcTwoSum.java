@@ -1,4 +1,4 @@
-package geek.leetcode.week02;
+package geek.leetcode.week01;
 
 import java.util.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package geek.leetcode.week02;
+package geek.leetcode.week01;
 
 //https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
 //lc 167 两数之和 II - 输入有序数组

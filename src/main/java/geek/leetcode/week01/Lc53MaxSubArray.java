@@ -1,4 +1,4 @@
-package geek.leetcode.week02;
+package geek.leetcode.week01;
 
 //https://leetcode-cn.com/problems/maximum-subarray/
 //lc53 最大子序和

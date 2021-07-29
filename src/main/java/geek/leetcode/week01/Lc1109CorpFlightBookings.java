@@ -1,4 +1,4 @@
-package geek.leetcode.week02;
+package geek.leetcode.week01;
 
 //https://leetcode-cn.com/problems/corporate-flight-bookings/
 //lc1109
